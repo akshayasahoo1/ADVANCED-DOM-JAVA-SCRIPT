@@ -1,0 +1,3 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+#todoList div { border-bottom: 1px solid #ccc; padding: 5px; }
+.completed { text-decoration: line-through; color: gray; }
